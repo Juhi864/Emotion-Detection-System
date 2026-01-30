@@ -33,6 +33,11 @@ Multimodal emotion fusion (combining text + speech simultaneously)
 
 Add support for more emotions and languages
 
+## Contributors
+- Juhi Jaikar
+- Heramb Unavane
+Academic group project
+
 # 🙌 Contributing
 Contributions, bug reports, and feature suggestions are welcome! Feel free to open a pull request or issue.
 
